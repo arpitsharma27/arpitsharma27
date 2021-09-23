@@ -3,38 +3,45 @@
 
 I have been a programmer for some 10+ years now. I have worked as Data Analyst, Data Engineer, Automation Engineer.
 
-Tools Used:
+**Tools & Technologies:**
 
-- ⚙ SAS | SQL | Python | R 
+- ⚙ SAS | SQL | Python | R | Tableau
 
 - 🍽 Unix | Mainframe | Windows
  
--    
-Databases interacted with:
+- 💾 Oracle | DB2 | Teradata | SQL Server
 
-    Oracle
-    DB2
-    Teradata
-    SQL Server
+- 📃 Jira | Confluence
+
 
 **Employment History:**
 
-    GE Capital/Wells Fargo
+- Wells Fargo | JP Morgan Chase | Kaiser Permanente
 
-    JP Morgan Chase
 
-    Kaiser Permanente
+**Projects worked upon:**
 
-### Projects worked upon:
-
-**Table Driven Approach**: 
-    A very flexible, scalable and self documenting approach used for performing: 
+- Table Drive Processes:
+    A very flexible, scalable and self documenting approach used 
+    
+    for performing jobs like:
     
     - Extraction, Transformation and Loading of datasets.
     - Documenting Changes in the code
     - Model Monitoring by documention Key Performance Indicators
-    
-**Automation**
+
+- Data Quality | Auto Analysis Bot | Machine Learning:
+
+    - Access the quality of data coming in.
+    - Machine Learning Algorithms- Principal Component Analysis to identify anomalies
+
+- Automation:
+
+  Automate jobs so that everyone has more time for ☕
+
+- Adhoc:
+
+  How can any employee of any company not have Adhoc?
 
 <!--
 **arpitsharma27/arpitsharma27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
