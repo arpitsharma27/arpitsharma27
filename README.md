@@ -16,7 +16,7 @@ I have been a programmer for some 10+ years now. I have worked as Data Analyst, 
 
 **Employment History:**
 
-- Wells Fargo | JP Morgan Chase | Kaiser Permanente
+- 💻Wells Fargo | JP Morgan Chase | Kaiser Permanente
 
 
 **Projects worked upon:**
@@ -42,6 +42,22 @@ I have been a programmer for some 10+ years now. I have worked as Data Analyst, 
 - Adhoc:
 
   How can any employee of any company not have Adhoc?
+
+- StoryTelling:
+
+  Collecting, Analyzing and then presenting the data to tell stories to stakeholders.
+  
+  
+**Currently Learning:**
+
+  - Statistics/Mathematics behind various Algorithms
+
+  - How to deploy Machine Learning Algorithms into Production environment.
+  
+  - **Coursera:** Data Visualization with Tableau Specialization (pursuing)
+
+  - **Coursera:** Statistics with Python https://www.coursera.org/account/accomplishments/specialization/GV9657PWXS3M
+  
 
 <!--
 **arpitsharma27/arpitsharma27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
