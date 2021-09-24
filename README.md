@@ -27,15 +27,15 @@ I have been a programmer for some 10+ years now. I have worked as Data Analyst, 
     for performing jobs like:
     
     - Extraction, Transformation and Loading of datasets.
-    - Documenting Changes in the code
-    - Model Monitoring by documention Key Performance Indicators
+    - Documenting Changes in the code.
+    - Model Monitoring of Key Performance Indicators(KPIs).
 
 - Data Quality | Auto Analysis Bot | Machine Learning:
 
     - Access the quality of data coming in.
     - Machine Learning Algorithms- Principal Component Analysis to identify anomalies
 
-- Automation:
+- Automation | Scheduling:
 
   Automate jobs so that everyone has more time for ☕
 
@@ -56,8 +56,11 @@ I have been a programmer for some 10+ years now. I have worked as Data Analyst, 
   
   - **Coursera:** Data Visualization with Tableau Specialization (pursuing)
 
-  - **Coursera:** Statistics with Python https://www.coursera.org/account/accomplishments/specialization/GV9657PWXS3M
+  - **Coursera:** [Statistics with Python](https://www.coursera.org/account/accomplishments/specialization/GV9657PWXS3M)
   
+
+**Contact Info:**
+[LinkedIn](linkedin.com/in/analystarpitsharma)
 
 <!--
 **arpitsharma27/arpitsharma27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
