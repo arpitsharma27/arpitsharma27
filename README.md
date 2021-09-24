@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello- What did you learn new today? 😲
 
 
 I have been a programmer for some 10+ years now. I have worked as Data Analyst, Data Engineer, Automation Engineer.
