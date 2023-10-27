@@ -5,7 +5,7 @@ I have been a programmer for some 10+ years now. I have worked as Data Analyst, 
 
 **Tools & Technologies:**
 
-- ⚙ SAS | SQL | Python | R | Tableau
+- ⚙ SAS | SQL | Python | R | Tableau | PowerBI
 
 - 🍽 Unix | Mainframe | Windows
  
